@@ -1,0 +1,47 @@
+h2{
+    margin: 30px 0px 30px 0px;
+}
+.mycol
+{
+    border: 3px solid black;
+    margin: 10px 0px 10px 0px;
+    padding: 30px 10px 15px 10px;
+    position: relative;
+    background: gainsboro;
+    text-align: left;
+    box-sizing: border-box;
+}
+
+.span1
+{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    border: 3px solid black;
+    border-top: none;
+    border-right: none;
+    padding: 0px 15px 0px 15px;
+    background-color: aqua;
+}
+.span2
+{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    border: 3px solid black;
+    border-top: none;
+    border-right: none;
+    padding: 0px 28px 0px 28px;
+    background-color: burlywood;
+}
+.span3
+{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    border: 3px solid black;
+    border-top: none;
+    border-right: none;
+    padding: 0px 26px 0px 26px;
+    background-color:dodgerblue
+}
